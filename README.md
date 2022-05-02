@@ -12,9 +12,9 @@ This folder contains the code necessary to:
 You need to have conda 4.8 or higher. Based on that, you can settup your environment using the following command:
 <br/><br/>
 <em> 
-	conda create -n transact_figures python=3.6 <br/>
-	conda activate transact_figures <br/>
-	sh setup.sh <br/>
+        git clone https://github.com/NKI-CCB/TRANSACT_manuscript.git<br/>
+        cd TRANSACT_manuscript<br/>
+        sh setup.sh<br/>
 </em>
 
 ## Downloading the data
